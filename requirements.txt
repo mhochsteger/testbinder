@@ -1,3 +1,3 @@
 numpy
-ngsolve==pre
+ngsolve==post
 webgui_jupyter_widgets
