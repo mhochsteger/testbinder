@@ -1,2 +1,3 @@
 numpy
 ngsolve
+webgui_jupyter_widgets
