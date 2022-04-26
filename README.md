@@ -1,6 +1,6 @@
 # testbinder
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JSchoeberl/testbinder/HEAD?labpath=first.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mhochsteger/testbinder/HEAD?labpath=first.ipynb)
 
 
