@@ -1,4 +1,0 @@
-tk-dev
-tcl-dev
-libxmu-dev
-libglu1-mesa-dev
